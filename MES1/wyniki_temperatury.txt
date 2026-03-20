@@ -1,0 +1,218 @@
+Symulacja temperatury - Metoda Elementow Skonconych
+=================================================
+Czas symulacji: 500 s
+Krok czasowy: 50 s
+Temperatura poczatkowa: 100 K
+Liczba wezlow: 16
+Liczba elementow: 9
+=================================================
+
+Czas t = 0 s
+-------------------
+  Wezel 0: T = 100.0000 K
+  Wezel 1: T = 100.0000 K
+  Wezel 2: T = 100.0000 K
+  Wezel 3: T = 100.0000 K
+  Wezel 4: T = 100.0000 K
+  Wezel 5: T = 100.0000 K
+  Wezel 6: T = 100.0000 K
+  Wezel 7: T = 100.0000 K
+  Wezel 8: T = 100.0000 K
+  Wezel 9: T = 100.0000 K
+  Wezel 10: T = 100.0000 K
+  Wezel 11: T = 100.0000 K
+  Wezel 12: T = 100.0000 K
+  Wezel 13: T = 100.0000 K
+  Wezel 14: T = 100.0000 K
+  Wezel 15: T = 100.0000 K
+
+Czas t = 50 s
+-------------------
+  Wezel 0: T = 365.8155 K
+  Wezel 1: T = 249.0153 K
+  Wezel 2: T = 249.0153 K
+  Wezel 3: T = 365.8155 K
+  Wezel 4: T = 249.0153 K
+  Wezel 5: T = 110.0380 K
+  Wezel 6: T = 110.0380 K
+  Wezel 7: T = 249.0153 K
+  Wezel 8: T = 249.0153 K
+  Wezel 9: T = 110.0380 K
+  Wezel 10: T = 110.0380 K
+  Wezel 11: T = 249.0153 K
+  Wezel 12: T = 365.8155 K
+  Wezel 13: T = 249.0153 K
+  Wezel 14: T = 249.0153 K
+  Wezel 15: T = 365.8155 K
+
+Czas t = 100 s
+-------------------
+  Wezel 0: T = 502.5917 K
+  Wezel 1: T = 353.0999 K
+  Wezel 2: T = 353.0999 K
+  Wezel 3: T = 502.5917 K
+  Wezel 4: T = 353.0999 K
+  Wezel 5: T = 168.8370 K
+  Wezel 6: T = 168.8370 K
+  Wezel 7: T = 353.0999 K
+  Wezel 8: T = 353.0999 K
+  Wezel 9: T = 168.8370 K
+  Wezel 10: T = 168.8370 K
+  Wezel 11: T = 353.0999 K
+  Wezel 12: T = 502.5917 K
+  Wezel 13: T = 353.0999 K
+  Wezel 14: T = 353.0999 K
+  Wezel 15: T = 502.5917 K
+
+Czas t = 150 s
+-------------------
+  Wezel 0: T = 587.3727 K
+  Wezel 1: T = 434.5973 K
+  Wezel 2: T = 434.5973 K
+  Wezel 3: T = 587.3727 K
+  Wezel 4: T = 434.5973 K
+  Wezel 5: T = 242.8009 K
+  Wezel 6: T = 242.8008 K
+  Wezel 7: T = 434.5973 K
+  Wezel 8: T = 434.5973 K
+  Wezel 9: T = 242.8009 K
+  Wezel 10: T = 242.8009 K
+  Wezel 11: T = 434.5973 K
+  Wezel 12: T = 587.3727 K
+  Wezel 13: T = 434.5973 K
+  Wezel 14: T = 434.5973 K
+  Wezel 15: T = 587.3727 K
+
+Czas t = 200 s
+-------------------
+  Wezel 0: T = 649.3875 K
+  Wezel 1: T = 503.4723 K
+  Wezel 2: T = 503.4723 K
+  Wezel 3: T = 649.3875 K
+  Wezel 4: T = 503.4723 K
+  Wezel 5: T = 318.6146 K
+  Wezel 6: T = 318.6146 K
+  Wezel 7: T = 503.4723 K
+  Wezel 8: T = 503.4723 K
+  Wezel 9: T = 318.6146 K
+  Wezel 10: T = 318.6146 K
+  Wezel 11: T = 503.4723 K
+  Wezel 12: T = 649.3875 K
+  Wezel 13: T = 503.4723 K
+  Wezel 14: T = 503.4723 K
+  Wezel 15: T = 649.3875 K
+
+Czas t = 250 s
+-------------------
+  Wezel 0: T = 700.0684 K
+  Wezel 1: T = 564.1710 K
+  Wezel 2: T = 564.1710 K
+  Wezel 3: T = 700.0684 K
+  Wezel 4: T = 564.1710 K
+  Wezel 5: T = 391.2558 K
+  Wezel 6: T = 391.2558 K
+  Wezel 7: T = 564.1710 K
+  Wezel 8: T = 564.1710 K
+  Wezel 9: T = 391.2558 K
+  Wezel 10: T = 391.2558 K
+  Wezel 11: T = 564.1710 K
+  Wezel 12: T = 700.0684 K
+  Wezel 13: T = 564.1710 K
+  Wezel 14: T = 564.1710 K
+  Wezel 15: T = 700.0684 K
+
+Czas t = 300 s
+-------------------
+  Wezel 0: T = 744.0633 K
+  Wezel 1: T = 618.7747 K
+  Wezel 2: T = 618.7747 K
+  Wezel 3: T = 744.0633 K
+  Wezel 4: T = 618.7747 K
+  Wezel 5: T = 459.0369 K
+  Wezel 6: T = 459.0369 K
+  Wezel 7: T = 618.7747 K
+  Wezel 8: T = 618.7747 K
+  Wezel 9: T = 459.0369 K
+  Wezel 10: T = 459.0369 K
+  Wezel 11: T = 618.7747 K
+  Wezel 12: T = 744.0633 K
+  Wezel 13: T = 618.7747 K
+  Wezel 14: T = 618.7747 K
+  Wezel 15: T = 744.0633 K
+
+Czas t = 350 s
+-------------------
+  Wezel 0: T = 783.3828 K
+  Wezel 1: T = 668.3643 K
+  Wezel 2: T = 668.3643 K
+  Wezel 3: T = 783.3828 K
+  Wezel 4: T = 668.3643 K
+  Wezel 5: T = 521.5863 K
+  Wezel 6: T = 521.5863 K
+  Wezel 7: T = 668.3643 K
+  Wezel 8: T = 668.3643 K
+  Wezel 9: T = 521.5863 K
+  Wezel 10: T = 521.5863 K
+  Wezel 11: T = 668.3643 K
+  Wezel 12: T = 783.3828 K
+  Wezel 13: T = 668.3643 K
+  Wezel 14: T = 668.3643 K
+  Wezel 15: T = 783.3828 K
+
+Czas t = 400 s
+-------------------
+  Wezel 0: T = 818.9922 K
+  Wezel 1: T = 713.5926 K
+  Wezel 2: T = 713.5926 K
+  Wezel 3: T = 818.9922 K
+  Wezel 4: T = 713.5926 K
+  Wezel 5: T = 579.0345 K
+  Wezel 6: T = 579.0345 K
+  Wezel 7: T = 713.5926 K
+  Wezel 8: T = 713.5926 K
+  Wezel 9: T = 579.0345 K
+  Wezel 10: T = 579.0345 K
+  Wezel 11: T = 713.5926 K
+  Wezel 12: T = 818.9922 K
+  Wezel 13: T = 713.5926 K
+  Wezel 14: T = 713.5926 K
+  Wezel 15: T = 818.9922 K
+
+Czas t = 450 s
+-------------------
+  Wezel 0: T = 851.4310 K
+  Wezel 1: T = 754.9210 K
+  Wezel 2: T = 754.9210 K
+  Wezel 3: T = 851.4310 K
+  Wezel 4: T = 754.9210 K
+  Wezel 5: T = 631.6893 K
+  Wezel 6: T = 631.6893 K
+  Wezel 7: T = 754.9210 K
+  Wezel 8: T = 754.9210 K
+  Wezel 9: T = 631.6893 K
+  Wezel 10: T = 631.6893 K
+  Wezel 11: T = 754.9210 K
+  Wezel 12: T = 851.4310 K
+  Wezel 13: T = 754.9210 K
+  Wezel 14: T = 754.9210 K
+  Wezel 15: T = 851.4310 K
+
+Czas t = 500 s
+-------------------
+  Wezel 0: T = 881.0576 K
+  Wezel 1: T = 792.7170 K
+  Wezel 2: T = 792.7170 K
+  Wezel 3: T = 881.0576 K
+  Wezel 4: T = 792.7170 K
+  Wezel 5: T = 679.9076 K
+  Wezel 6: T = 679.9076 K
+  Wezel 7: T = 792.7170 K
+  Wezel 8: T = 792.7170 K
+  Wezel 9: T = 679.9076 K
+  Wezel 10: T = 679.9076 K
+  Wezel 11: T = 792.7170 K
+  Wezel 12: T = 881.0576 K
+  Wezel 13: T = 792.7170 K
+  Wezel 14: T = 792.7170 K
+  Wezel 15: T = 881.0576 K
+
